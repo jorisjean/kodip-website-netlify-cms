@@ -22,7 +22,7 @@ intro:
          - Help with Network architecture and design
          - Network and security device configuration (Switch, Router, Firewall)
          - Troubleshooting on existing network
-    - image: /img/network-1-.svg
+    - image: /img/api.svg
       text: |
         Custom scripting automation can apply to:
          - Custom SNMP polling
