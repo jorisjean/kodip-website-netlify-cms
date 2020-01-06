@@ -16,13 +16,13 @@ description: >-
   monitoring or Security we should ask ourself. "Can I automate this ?"
 intro:
   blurbs:
-    - image: /img/network-1-.svg
+    - image: /img/network.png
       text: |
         Network and Security Consulting covers:
          - Help with Network architecture and design
          - Network and security device configuration (Switch, Router, Firewall)
          - Troubleshooting on existing network
-    - image: /img/api.svg
+    - image: /img/api.png
       text: |
         Custom scripting automation can apply to:
          - Custom SNMP polling
